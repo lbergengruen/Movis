@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+}
+
+#contenedor{
+    background-color: bisque;
+    position: absolute;
+    width: 100%;
+    height: fit-content;
+    max-width: 500px;
+    margin: auto;
+    left: 0;
+    right: 0;
+    border: solid white;
+}
+
+#cabeza{
+    margin: 0px;
+}
+
+#cuerpo{
+    height: 100%;
+}
+
+.pelicula{
+    width: 95%;
+    height: fit-content;
+    margin: auto;
+    left: 0;
+    right: 0;
+}
+
+img{
+    width: 100%;
+
+}
+
+.informacion{
+    background-color: cornflowerblue;
+    border: solid;
+    position: absolute;
+    height: auto;
+    width: 95%;
+    max-width: 450px;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+}
